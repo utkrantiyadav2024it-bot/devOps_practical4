@@ -1,1 +1,1 @@
-# devOps_practical4
+# devOps_practical4 This project demonstrates GitHub collaboration and code review.
